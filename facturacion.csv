@@ -1,0 +1,51 @@
+id_facturacion,metodo_pago,fecha_pago,monto
+1,transferencia,2025-03-02,89.54
+2,débito,2025-02-28,30.21
+3,tarjeta de crédito,2025-02-16,35.01
+4,transferencia,2025-01-20,47.81
+5,tarjeta de crédito,2025-01-10,50.4
+6,efectivo,2025-01-03,10.46
+7,efectivo,2025-01-21,27.51
+8,transferencia,2025-01-17,17.36
+9,tarjeta de crédito,2025-03-03,61.46
+10,efectivo,2025-01-29,12.28
+11,transferencia,2025-01-08,76.37
+12,transferencia,2025-02-15,98.03
+13,débito,2025-03-23,48.14
+14,efectivo,2025-01-12,16.7
+15,tarjeta de crédito,2025-01-30,32.5
+16,efectivo,2025-03-18,24.8
+17,débito,2025-02-08,37.97
+18,transferencia,2025-02-15,66.34
+19,tarjeta de crédito,2025-02-17,18.71
+20,transferencia,2025-03-28,53.2
+21,débito,2025-03-06,82.73
+22,tarjeta de crédito,2025-01-26,63.33
+23,efectivo,2025-01-09,66.37
+24,débito,2025-03-04,40.09
+25,transferencia,2025-02-22,32.54
+26,transferencia,2025-02-07,19.71
+27,transferencia,2025-01-18,31.45
+28,tarjeta de crédito,2025-02-06,40.67
+29,transferencia,2025-03-27,14.9
+30,tarjeta de crédito,2025-02-07,40.02
+31,transferencia,2025-02-05,81.47
+32,efectivo,2025-01-19,94.92
+33,transferencia,2025-02-13,79.82
+34,efectivo,2025-01-05,65.76
+35,transferencia,2025-01-26,78.77
+36,tarjeta de crédito,2025-02-12,66.28
+37,efectivo,2025-02-15,62.1
+38,débito,2025-01-26,17.7
+39,tarjeta de crédito,2025-01-22,15.46
+40,débito,2025-03-23,13.0
+41,tarjeta de crédito,2025-01-27,38.2
+42,efectivo,2025-02-24,86.29
+43,débito,2025-01-06,15.85
+44,débito,2025-01-15,21.48
+45,efectivo,2025-03-15,92.72
+46,tarjeta de crédito,2025-03-09,49.77
+47,débito,2025-03-06,37.13
+48,débito,2025-01-10,66.36
+49,efectivo,2025-01-09,15.92
+50,tarjeta de crédito,2025-03-06,70.98
