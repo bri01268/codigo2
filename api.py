@@ -51,3 +51,4 @@ async def obtener_datos_tabla(
     except Exception as e:
         return {"error": str(e)}
 
+
